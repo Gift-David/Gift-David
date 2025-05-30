@@ -1,16 +1,84 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a385ae9a-7551-485c-b0e5-4b961dfe023f" alt="David Gift">
+</p>
 
-<!--
-**Gift-David/Gift-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm David Gift! 👋</h1>
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate blockchain and backend developer committed to building efficient and secured software solutions for businesses. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+---
+
+- 🌱 Currently learning: Backend Development.
+- 🔭 Working on: Some Python Projects
+- 🌍 Languages: Fluent in English
+- 📫 How to reach me:
+  <a href="mailto:giftdavid149@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/david-gift-810a68249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00008B?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/GiftDavidE" target="_blank"><img src="https://img.shields.io/badge/(Twitter)-1DA1F2?logo=x&logoColor=white" /></a>
+- ⚡ Fun fact: I find inspiration during evening walks
+
+---
+
+<details>
+<summary> My Skills 🧠 </summary>
+
+### Languages:
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+### 📈 My GitHub Contribution Charts
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gift-David&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gift-David&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gift-David&theme=radical&hide_border=true)
+
+</details>
+
+---
+
+## Featured Projects 💻
+
+### [Python Codes](https://github.com/Gift-David/python_codes.git)
+
+Python codes is a directory where I store some server-side scripts built with python. This project demonstrates my ability to write efficient and readable pyhon codes. You can check out the repository [here](https://github.com/Gift-David/python_codes.git).
+
+### [Solidity Codes](https://github.com/Gift-David/solidity-codes.git)
+
+
+Solidity codes is a directory where I stored some smart contracts built with solidity. This project showcases my skills in writing EVM compatible smart contracts. You can check out the repository [here](https://github.com/Gift-David/solidity-codes.git).
+
+### [Other Projects](https://github.com/Gift-David?tab=repositories)
+
+I have other projects built with Python, Solidity, JavaScript, NodeJs, HTML and CSS. You can check them out [here](https://github.com/Gift-David?tab=repositories)
+
+## Get in Touch 📬
+
+<p align="center">
+  <a href="mailto:giftdavid149@gmail.com" target="_blank"><img 
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/david-gift-810a68249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00008B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/GiftDavidE" target="_blank"><img src="https://img.shields.io/badge/(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+
