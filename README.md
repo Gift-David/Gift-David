@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">Hi there, I'm David Gift! 👋</h1>
+<p align="center">
+  🌱 Learning Blockchain & Backend Development • 🛠 Building software solutions for businesses
+</p>
 
 ## About Me 🚀
 
