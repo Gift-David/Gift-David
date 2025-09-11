@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi there, I'm David Gift! 👋</h1>
 <p align="center">
-  🌱 Learning Blockchain & Backend Development • 🛠 Building software solutions for businesses
+  🌱 Backend Development • 🛠 Building software solutions for businesses
 </p>
 
 ## About Me 🚀
 
-I'm a passionate blockchain and backend developer committed to building efficient and secured software solutions for businesses. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a result oriented backend developer committed to building secure, scalable and efficient software solutions for businesses. From building custom APIs to designing robust backend architectures that ensure high performance and seamless user experiences. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 ---
 
@@ -28,20 +28,24 @@ I'm a passionate blockchain and backend developer committed to building efficien
 <summary> My Skills 🧠 </summary>
 
 ### Languages:
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### Frameworks:
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
 </details>
 
 ---
