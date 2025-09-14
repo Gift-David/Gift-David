@@ -9,7 +9,7 @@
 
 ## About Me 🚀
 
-I'm a result oriented backend developer committed to building secure, scalable and efficient software solutions for businesses. From building custom APIs to designing robust backend architectures that ensure high performance and seamless user experiences. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a result oriented backend developer committed to building secure, scalable and efficient software solutions for businesses. From building custom APIs to designing robust backend architectures that ensure high performance and seamless user experiences. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 ---
 
