@@ -72,7 +72,7 @@ This reository is a reflection of my journey in learning python. It showcases my
 
 ### [Service Request Management System](https://github.com/Gift-David/service_request_management_system.git)
 
-The Service Request Management System is an application that helps service-baased companies manage their clients and service log. It tested my skills on python packages and modules, functions and interactions with JSON files. You can check out the repository [here](https://github.com/Gift-David/service_request_management_system.git).
+The Service Request Management System is an application that helps service-baased companies manage their clients and service requests. It tested my skills on python packages and modules, functions and interactions with JSON files. You can check out the repository [here](https://github.com/Gift-David/service_request_management_system.git).
 
 ### [Solidity Codes](https://github.com/Gift-David/solidity-codes.git)
 
