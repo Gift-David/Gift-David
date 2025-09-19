@@ -16,7 +16,7 @@ I am a result oriented backend developer committed to building secure, scalable 
 - 🌱 Currently learning: Backend Development.
 - 🔭 Working on: Some Django Projects.
 - 🌍 Languages: Fluent in English.
-- 📫 How to reach me:
+- 📫 Contact me:
   <a href="mailto:giftdavid149@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/david-gift-810a68249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00008B?logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/GiftDavidE" target="_blank"><img src="https://img.shields.io/badge/(Twitter)-1DA1F2?logo=x&logoColor=white" /></a>
