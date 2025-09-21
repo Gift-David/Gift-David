@@ -68,7 +68,7 @@ I am a result oriented backend developer committed to building secure, scalable 
 
 ### [Python Codes](https://github.com/Gift-David/python_codes.git)
 
-This reository is a reflection of my journey in learning python. It showcases my progress and understanding in learning python concepts and application in solving real world problems. You can check out the repository [here](https://github.com/Gift-David/python_codes.git).
+This reository is a reflection of my journey in learning python. It showcases my progress and understanding in learning core python concepts and application in solving real world problems. You can check out the repository [here](https://github.com/Gift-David/python_codes.git).
 
 ### [Service Request Management System](https://github.com/Gift-David/service_request_management_system.git)
 
