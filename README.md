@@ -81,7 +81,7 @@ Solidity codes is a directory where I stored some smart contracts built with sol
 
 ### [Other Projects](https://github.com/Gift-David?tab=repositories)
 
-Go to my repo to view other projects I built with Python, Solidity, JavaScript, NodeJs, HTML and CSS. You can check them out [here](https://github.com/Gift-David?tab=repositories)
+Visit my repo to view other projects I built with Python, Solidity, JavaScript, NodeJs, HTML and CSS. You can check them out [here](https://github.com/Gift-David?tab=repositories)
 
 ## Get in Touch 📬
 
