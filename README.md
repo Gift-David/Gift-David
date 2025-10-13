@@ -70,9 +70,8 @@ I am a result oriented backend developer committed to building secure, scalable 
 
 This reository is a reflection of my journey in learning python. It showcases my progress and understanding in learning core python concepts and application in solving real world problems. You can check out the repository [here](https://github.com/Gift-David/python_codes.git).
 
-### [Service Request Management API](https://github.com/Gift-David/solidity-codes.git)
-This is a custom built API built with Django Rest Framework that helps service-based businesses 
-Solidity codes is a directory where I stored some smart contracts built with solidity. This project showcases my skills in writing EVM compatible smart contracts. You can check out the repository [here](https://github.com/Gift-David/solidity-codes.git).
+### [Service Request Management API](https://github.com/Gift-David/service_request_management_API.git)
+A custom API designed to help service-based businesses (e.g., plumbing, cleaning, IT support, consulting, etc.) manage client information and service requests efficiently.You can check out the repository [here](https://github.com/Gift-David/service_request_management_API.git).
 
 
 ### [Service Request Management System](https://github.com/Gift-David/service_request_management_system.git)
