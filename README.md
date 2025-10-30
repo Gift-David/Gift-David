@@ -15,8 +15,8 @@ I am a result oriented backend developer committed to building secure, scalable 
 
 ---
 
-- 🌱 Currently learning: Backend Development.
-- 🔭 Working on: A custom car rental app API
+- 🌱 Currently learning: Frontend Development.
+- 🔭 Working on: A Real Estate Web App
 - 🌍 Languages: Fluent in English.
 - 📫 Contact me:
   <a href="mailto:giftdavid149@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
