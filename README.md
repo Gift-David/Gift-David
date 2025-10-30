@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a385ae9a-7551-485c-b0e5-4b961dfe023f" alt="David Gift">
+<p>
+  <img src="https://github.com/user-attachments/assets/250f3f38-b3e9-48be-9c52-64958961f5c6" alt="David Gift">
 </p>
 
 <h1 align="center">Hi there, I'm David Gift! 👋</h1>
