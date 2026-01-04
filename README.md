@@ -1,6 +1,8 @@
 <div align="center">
 <p>
-  <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift" width="300px" height="300px" align="center">
+  <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" width="300px" height="300px" align="center">
+  <!-- <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift" width="300px" height="300px" align="center">![1767563197823](https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe) -->
+
 </p>
 </div>
 
