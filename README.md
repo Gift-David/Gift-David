@@ -1,15 +1,21 @@
-<div align="center">
-<p>
-  <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" width="300px" height="300px" align="center">
-  <!-- <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift" width="300px" height="300px" align="center">![1767563197823](https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe) -->
+<section display = "flex" align-items = "right">
+  <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" width="300px" height="300px">
+    <!-- <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift"  -->
+  <div>
+    <h1 >Hello, I'm <br> <p color = "red;">David Gift </p>! 👋</h1>
+    <p >🌱 Backend Development • 🛠 Building software solutions for businesses</p>
+  </div>
+</section>
 
-</p>
-</div>
-
-<h1 align="center">Hi there, I'm David Gift! 👋</h1>
-<p align="center">
-  🌱 Backend Development • 🛠 Building software solutions for businesses
-</p>
+<!-- <div style="display:flex; align-items:center; gap:20px; background:transparent;">
+  <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+  <div style="line-height:1;">
+    <h1 style="margin:0; color:#fe4400; font-size:32px;">
+      hello, i'm <span style="color:#HEX; font-weight:800;">David Gift</span>
+    </h1>
+    <p style="margin:6px 0 0 0; color:#000000; font-size:18px;">backend developer</p>
+  </div>
+</div> -->
 
 ## About Me 🚀
 
