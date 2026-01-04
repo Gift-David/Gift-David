@@ -1,11 +1,13 @@
-<section display = "flex" align-items = "right">
-  <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" width="300px" height="300px">
-    <!-- <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift"  -->
+<div style="display:flex; align-items:center; gap:"20px"; background:transparent;">
   <div>
-    <h1 >Hello, I'm <br> <p color = "red;">David Gift </p>! 👋</h1>
-    <p >🌱 Backend Development • 🛠 Building software solutions for businesses</p>
+    <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" width="300px" height="300px">
   </div>
-</section>
+  <div>
+    <h1 >Hello, I'm <br> David Gift! 👋</h1>
+    <p >🌱 Backend Developer • 🛠 I Build software solutions for businesses</p>
+  </div>
+    <!-- <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift"  -->
+</div>
 
 <!-- <div style="display:flex; align-items:center; gap:20px; background:transparent;">
   <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
