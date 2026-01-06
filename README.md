@@ -1,9 +1,9 @@
-<div display="flex"; align-items="center"; gap="20px"; background="transparent">
+<div gap="20px"; align="center"; display="flex">
   <div>
     <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" width="300px" height="300px">
   </div>
   <div>
-    <h1>Hello, I'm <br> David Gift! 👋</h1>
+    <h1 colour="0969DA">Hello, I'm <br> David Gift! 👋</h1>
     <p >🌱 Backend Developer • 🛠 I Build software solutions for businesses</p>
   </div>
     <!-- <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift"  -->
@@ -11,12 +11,12 @@
 
 ## About Me 🚀
 
-I am a result oriented backend developer committed to building secure, scalable and efficient software solutions for businesses. Over the past year, I've built over 5 APIs the powers the functionality of both web and mobile apps. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a result oriented backend developer committed to building secure, scalable and efficient software solutions for businesses. Over the past year, I've built several APIs that powers the functionality of both web and mobile apps. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 ---
 
 - 🌱 Currently learning: Frontend Web and Mobile Development.
-- 🔭 Working on: A Real Estate Web App
+- 🔭 Working on: A Real Estate Web App API
 - 🌍 Languages: Fluent in English.
 - 📫 Contact me:
   <a href="mailto:giftdavid149@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
@@ -38,13 +38,13 @@ I am a result oriented backend developer committed to building secure, scalable 
 
 ### Frameworks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Django Rest Framework](https://img.shields.io/badge/restframework-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,7 +69,7 @@ I am a result oriented backend developer committed to building secure, scalable 
 
 ## Featured Projects 💻
 
-### Reino Realty - [ongoing]
+### [Reino Realty]() - [ongoing]
 A full‑stack web application for browsing, purchasing, and managing real estate properties online, with support for online inspections, reviews, blogging, and an admin dashboard for admin staffs. Live demo coming soon.
 
 ### [Car Rental App](https://github.com/Gift-David/car-rental-app.git) - [completed]
@@ -77,7 +77,6 @@ A full-stack web application where users browse and book listed cars for rentals
 
 ### [Service Request Management API](https://github.com/Gift-David/service_request_management_API.git) - [completed]
 A custom API designed to help service-based businesses (e.g., plumbing, cleaning, IT support, consulting, etc.) manage client information and service requests efficiently.You can check out the repository [here](https://github.com/Gift-David/service_request_management_API.git).
-### [Python Codes](https://github.com/Gift-David/python_codes.git)
 
 ### [Service Request Management System](https://github.com/Gift-David/service_request_management_system.git) - [completed]
 
@@ -95,4 +94,5 @@ Visit my repo to view other projects I built with Django, RestFramework, Python,
   <a href="https://x.com/GiftDavidE" target="_blank"><img src="https://img.shields.io/badge/(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-
+---
+<p align="center">&copy; 2026 David Gift. All Rights Reserved.</p>
