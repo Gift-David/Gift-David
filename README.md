@@ -1,38 +1,28 @@
-<div style="display:flex; align-items:center; gap:"20px"; background:transparent;">
+<div display="flex"; align-items="center"; gap="20px"; background="transparent">
   <div>
     <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" width="300px" height="300px">
   </div>
   <div>
-    <h1 >Hello, I'm <br> David Gift! 👋</h1>
+    <h1>Hello, I'm <br> David Gift! 👋</h1>
     <p >🌱 Backend Developer • 🛠 I Build software solutions for businesses</p>
   </div>
     <!-- <img src="https://github.com/user-attachments/assets/88ba0c4d-ea40-47a8-bcdb-3008d45e9b87" alt="David Gift"  -->
 </div>
 
-<!-- <div style="display:flex; align-items:center; gap:20px; background:transparent;">
-  <img src="https://github.com/user-attachments/assets/40156931-2f05-449d-80ad-35f7688f50fe" alt="David Gift" style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
-  <div style="line-height:1;">
-    <h1 style="margin:0; color:#fe4400; font-size:32px;">
-      hello, i'm <span style="color:#HEX; font-weight:800;">David Gift</span>
-    </h1>
-    <p style="margin:6px 0 0 0; color:#000000; font-size:18px;">backend developer</p>
-  </div>
-</div> -->
-
 ## About Me 🚀
 
-I am a result oriented backend developer committed to building secure, scalable and efficient software solutions for businesses. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a result oriented backend developer committed to building secure, scalable and efficient software solutions for businesses. Over the past year, I've built over 5 APIs the powers the functionality of both web and mobile apps. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 ---
 
-- 🌱 Currently learning: Frontend Development.
+- 🌱 Currently learning: Frontend Web and Mobile Development.
 - 🔭 Working on: A Real Estate Web App
 - 🌍 Languages: Fluent in English.
 - 📫 Contact me:
   <a href="mailto:giftdavid149@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/david-gift-810a68249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00008B?logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/GiftDavidE" target="_blank"><img src="https://img.shields.io/badge/(Twitter)-1DA1F2?logo=x&logoColor=white" /></a>
-- ⚡ Fun fact: I get inspiration during evening walks and reading
+- ⚡ Fun fact: I get inspiration during evening walks and reading.
 
 ---
 
@@ -48,6 +38,7 @@ I am a result oriented backend developer committed to building secure, scalable 
 
 ### Frameworks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django Rest Framework](https://img.shields.io/badge/restframework-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools & Platforms:
@@ -78,27 +69,28 @@ I am a result oriented backend developer committed to building secure, scalable 
 
 ## Featured Projects 💻
 
+### Reino Realty - [ongoing]
+A full‑stack web application for browsing, purchasing, and managing real estate properties online, with support for online inspections, reviews, blogging, and an admin dashboard for admin staffs. Live demo coming soon.
+
+### [Car Rental App](https://github.com/Gift-David/car-rental-app.git) - [completed]
+A full-stack web application where users browse and book listed cars for rentals. View repo [here](https://github.com/Gift-David/car-rental-app.git).
+
+### [Service Request Management API](https://github.com/Gift-David/service_request_management_API.git) - [completed]
+A custom API designed to help service-based businesses (e.g., plumbing, cleaning, IT support, consulting, etc.) manage client information and service requests efficiently.You can check out the repository [here](https://github.com/Gift-David/service_request_management_API.git).
 ### [Python Codes](https://github.com/Gift-David/python_codes.git)
 
-This reository is a reflection of my journey in learning python. It showcases my progress and understanding in learning core python concepts and application in solving real world problems. You can check out the repository [here](https://github.com/Gift-David/python_codes.git).
-
-### [Service Request Management API](https://github.com/Gift-David/service_request_management_API.git)
-A custom API designed to help service-based businesses (e.g., plumbing, cleaning, IT support, consulting, etc.) manage client information and service requests efficiently.You can check out the repository [here](https://github.com/Gift-David/service_request_management_API.git).
-
-
-### [Service Request Management System](https://github.com/Gift-David/service_request_management_system.git)
+### [Service Request Management System](https://github.com/Gift-David/service_request_management_system.git) - [completed]
 
 The Service Request Management System is an application that helps service-baased companies manage their clients and service requests. It tested my skills on python packages and modules, functions and interactions with JSON files. You can check out the repository [here](https://github.com/Gift-David/service_request_management_system.git).
 
 ### [Other Projects](https://github.com/Gift-David?tab=repositories)
 
-Visit my repo to view other projects I built with Python, Solidity, JavaScript, NodeJs, HTML and CSS. You can check them out [here](https://github.com/Gift-David?tab=repositories)
+Visit my repo to view other projects I built with Django, RestFramework, Python, JavaScript, HTML and CSS. Check them out [here](https://github.com/Gift-David?tab=repositories)
 
-## Get in Touch 📬
+## Stay in Touch 📬
 
 <p align="center">
-  <a href="mailto:giftdavid149@gmail.com" target="_blank"><img 
-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:giftdavid149@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/david-gift-810a68249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00008B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/GiftDavidE" target="_blank"><img src="https://img.shields.io/badge/(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
